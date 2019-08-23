@@ -1,0 +1,35 @@
+C:\Users\Administrator\Documents\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Administrator\Documents\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Administrator\Documents\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Administrator\Documents\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\My PC\Desktop\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\My PC\Desktop\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\My PC\Desktop\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\My PC\Desktop\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\Administrator\Desktop\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Administrator\Desktop\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\Administrator\Desktop\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Administrator\Desktop\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Administrator\Desktop\DA_LTWIN_NHOM_12_dangxulyhoadon\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\Administrator\Desktop\DA_LTWIN_NHOM_12_dangxulyhoadon\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\Administrator\Desktop\DA_LTWIN_NHOM_12_dangxulyhoadon\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\DA_LTWIN_NHOM_12_dangxulyhoadon\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\Administrator\Desktop\DA_LTWIN_NHOM_12_dangxulyhoadon\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\My PC\Desktop\SOURCE 11-06\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\My PC\Desktop\SOURCE 11-06\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\My PC\Desktop\SOURCE 11-06\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\SOURCE 11-06\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\My PC\Desktop\SOURCE 11-06\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\My PC\Documents\Information Technology\4. C#\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\My PC\Documents\Information Technology\4. C#\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\My PC\Documents\Information Technology\4. C#\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Documents\Information Technology\4. C#\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\My PC\Documents\Information Technology\4. C#\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\My PC\Documents\Hunt's code\2. C#\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\My PC\Documents\Hunt's code\2. C#\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\My PC\Documents\Hunt's code\2. C#\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Documents\Hunt's code\2. C#\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\My PC\Documents\Hunt's code\2. C#\DA_LTWIN_NHOM_12\SOURCE\QuanLiNhaSach\MyLibrary\obj\Debug\MyLibrary.pdb
